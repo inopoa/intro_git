@@ -1,2 +1,8 @@
 Gitの練習をしてきます
 基本的なワークフローを学びます。
+
+トークン
+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
+
+-git add
+-git commit
