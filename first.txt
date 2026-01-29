@@ -8,3 +8,4 @@ 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
 -git commit
 -git rm
 -git status
+-git diff
